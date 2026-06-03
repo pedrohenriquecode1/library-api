@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Library {
+public class Book {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
